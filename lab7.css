@@ -106,7 +106,7 @@ body
 
 
 
-/* Added a blinking curso to make seeing typed text easier */
+/* Added a blinking cursor to make seeing typed text easier */
 
 .text::after {
   content: "";
